@@ -9,3 +9,24 @@ section {
 .navbar-inverse {
   background-color: #690000;
 }
+
+#todays_event {
+	background-image: url('http://i.ytimg.com/vi/N_udO0INKa8/maxresdefault.jpg');
+	background-size: cover;
+
+}
+
+#todays_event .container {
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+
+}
+
+#todays_event * {
+	color: white !important;
+}
+
+#todays_event .adtag {
+	width: 300px;
+	margin: 50px auto;
+}
